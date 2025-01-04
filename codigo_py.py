@@ -13,3 +13,5 @@ print('mais um teste')
 a = 5
 
 b = 3
+
+print('testando o merge')
